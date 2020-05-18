@@ -1,3 +1,8 @@
+// File : index.html
+// Creator : Aditya Pratyush
+// Date : 12/05/2020
+// Copyright : The AdiPra's Corner-2020
+
 $(function () { // Same as document.addEventListener("DOMContentLoaded"...
 
   // Same as document.querySelector("#navbarToggle").addEventListener("blur",...

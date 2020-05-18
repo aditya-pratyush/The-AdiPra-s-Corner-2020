@@ -1,3 +1,8 @@
+// File : ajax-utils.js
+// Creator : Aditya Pratyush
+// Date : 12/05/2020
+// Copyright : The AdiPra's Corner-2020
+
 (function (global) {
 
 // Set up a namespace for our utility

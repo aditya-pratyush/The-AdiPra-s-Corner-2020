@@ -1,3 +1,8 @@
+/*File : style.css
+Creator : Aditya Pratyush
+Date : 12/05/2020
+Copyright : The AdiPra's Corner-2020*/
+
 body {
   font-size: 16px;
   color: #fff;
@@ -7,7 +12,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: #f6b319;
+  background-color: #E56B1F;
   border-radius: 0;
   border: 0;
 }
@@ -17,6 +22,55 @@ body {
   width: 150px;
   height: 150px;
   margin: 10px 15px 10px 0;
+}
+
+.owner {
+   display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ .about-title {
+   font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.about-title1 {
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 0.85em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.about-title2 {
+  font-family: 'Lora', serif;
+  color: #557c3e;
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+/*This .about-title is added only for the About page. This has nothing to do with the Index Page.
+*/
+
+#liked-fonts {
+  font-family: 'Lobster', cursive;
 }
 
 .navbar-brand {
