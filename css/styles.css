@@ -1,18 +1,18 @@
 /*File : style.css
 Creator : Aditya Pratyush
-Date : 12/05/2020
+Date : 02/06/2020
 Copyright : The AdiPra's Corner-2020*/
 
 body {
   font-size: 16px;
   color: #fff;
-  background-color: #61122f;
+  background-color: #562701;
   font-family: 'Oxygen', sans-serif;
 }
 
 /** HEADER **/
 #header-nav {
-  background-color: #E56B1F;
+  background-color: #DA7F33;
   border-radius: 0;
   border: 0;
 }
@@ -64,6 +64,18 @@ body {
   margin-top: 0;
   margin-bottom: 0;
   line-height: .75;
+}
+
+#credit {
+  font-size: 5em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+}
+
+.credit1 {
+  font-size: 2em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
 }
 
 /*This .about-title is added only for the About page. This has nothing to do with the Index Page.
@@ -141,7 +153,7 @@ body {
   margin-top: 30px;
   padding-top: 35px;
   padding-bottom: 30px;
-  background-color: #222;
+  background-color: #2F0909;
   border-top: 0;
 }
 .panel-footer div.row {
@@ -357,6 +369,7 @@ h3.menu-item-title {
     background-color: #f6b319;
     color: #951c49;
   }
+
   #xs-deliver {
     margin-top: 5px;
     font-size: .7em;

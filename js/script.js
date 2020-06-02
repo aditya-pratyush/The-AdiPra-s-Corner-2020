@@ -1,6 +1,6 @@
-// File : index.html
+// File : script.js
 // Creator : Aditya Pratyush
-// Date : 12/05/2020
+// Date : 02/06/2020
 // Copyright : The AdiPra's Corner-2020
 
 $(function () { // Same as document.addEventListener("DOMContentLoaded"...
